@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CSC475_M7CT_UnitConv_ANishiyama</string>
+    <string-array name="conversion_types">
+        <item>Feet and Inches to Centimeters</item>
+        <item>Kilograms to Pounds</item>
+    </string-array>
+</resources>
